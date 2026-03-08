@@ -1,7 +1,7 @@
 ---
 layout: default
-title: My Homepage
+title: Alex's world
 ---
 
 ## Welcome!
-This content will be injected into the `{{ content }}` area of the default layout.
+Here you can find my projects
