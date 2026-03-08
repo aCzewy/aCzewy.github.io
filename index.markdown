@@ -1,8 +1,7 @@
 ---
-layout: home
-title: Welcome
+layout: default
+title: My Homepage
 ---
 
-# Alex says hello world
-
-This is my first website built with Jekyll and VS Code!
+## Welcome!
+This content will be injected into the `{{ content }}` area of the default layout.
