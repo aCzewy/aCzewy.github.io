@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Alexander Czulak"
   avatar : "/assets/images/escher.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Engineer, builder, tinkerer and deep thinker"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -100,6 +100,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      read_time: true
   # _pages
   - scope:
       path: "_pages"
